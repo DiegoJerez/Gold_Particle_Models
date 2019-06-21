@@ -19,7 +19,7 @@
          max_dataset_size: inf                           
                     model: pix2pix                       	[default: test]
                n_layers_D: 3                             
-                     name: Pix2Pix_GoldParticle           	[default: experiment_name]
+                     name: gold_particle_model           	[default: experiment_name]
                       ndf: 64                            
                      netD: basic                         
                      netG: unet_256                      
