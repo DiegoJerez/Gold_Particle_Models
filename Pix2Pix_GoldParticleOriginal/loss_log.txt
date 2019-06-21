@@ -1,4 +1,4 @@
-================ Training Loss (Fri Mar 15 16:22:14 2019) ================
+================ Training Loss (Fri Mar 15 16:22:14 2019) ===============
 (epoch: 1, iters: 100, time: 0.062, data: 0.144) G_GAN: 0.911 G_L1: 6.104 D_real: 1.011 D_fake: 0.551 
 (epoch: 1, iters: 200, time: 0.062, data: 0.001) G_GAN: 1.133 G_L1: 5.267 D_real: 0.564 D_fake: 0.480 
 (epoch: 1, iters: 300, time: 0.062, data: 0.001) G_GAN: 0.836 G_L1: 7.099 D_real: 0.867 D_fake: 0.667 
